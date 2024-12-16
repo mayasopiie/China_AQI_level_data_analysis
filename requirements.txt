@@ -1,0 +1,11 @@
+folium==0.17.0
+geopandas==1.0.1
+geopy==2.4.1
+matplotlib==3.8.2
+numpy==1.24.3
+opencage==3.0.3
+osmnx==2.0.0
+pandas==1.5.3
+seaborn==0.13.2
+Shapely==2.0.6
+streamlit==1.21.0
